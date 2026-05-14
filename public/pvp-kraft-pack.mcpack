@@ -1,0 +1,13 @@
+This is a placeholder for the PvP Kraft (.mcpack) file.
+In a real environment, this would be a ZIP-compressed folder containing:
+1. manifest.json
+2. pack_icon.png
+3. textures/items/diamond_sword.png (Shortened)
+4. textures/items/gold_apple.png (Vibrant)
+5. textures/items/fishing_rod_uncast.png (Minimal)
+6. textures/blocks/cobweb.png (Clean)
+
+To make this a real pack:
+1. Create a folder with these assets.
+2. Zip the contents.
+3. Rename the .zip extension to .mcpack.
