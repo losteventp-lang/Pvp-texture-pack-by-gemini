@@ -1,0 +1,12 @@
+This is a placeholder ZIP file for the PvP Kraft texture pack.
+
+To turn this into a working Minecraft Bedrock resource pack:
+1. Extract this ZIP (or just keep it Zipped).
+2. Ensure it contains:
+   - manifest.json (The unique ID and version of your pack)
+   - pack_icon.png (The 64x64 or 128x128 image users see in settings)
+   - textures/items/ (Contains your short sword, gapples, etc.)
+   - textures/blocks/ (Contains your clean cobwebs)
+3. Rename the extension from .zip to .mcpack if you want it to auto-install in Minecraft.
+
+Happy building!

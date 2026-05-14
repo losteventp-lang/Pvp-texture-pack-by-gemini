@@ -98,12 +98,12 @@ export default function App() {
               </p>
 
               <a 
-                href="/pvp-kraft-pack.mcpack"
-                download="pvp-kraft.mcpack"
+                href="/pvp-kraft-pack.zip"
+                download="pvp-kraft.zip"
                 className="inline-flex items-center gap-3 px-8 py-4 bg-editorial-primary text-white font-black uppercase tracking-widest text-xs hover:bg-emerald-600 transition-all transform hover:scale-105 shadow-xl italic cursor-pointer"
               >
                 <Download size={16} strokeWidth={3} />
-                Download Pack (.mcpack)
+                Download Pack (.zip)
               </a>
             </motion.div>
           </div>
@@ -175,8 +175,8 @@ export default function App() {
               </div>
             </div>
             <a 
-              href="/pvp-kraft-pack.mcpack"
-              download="pvp-kraft.mcpack"
+              href="/pvp-kraft-pack.zip"
+              download="pvp-kraft.zip"
               className="block w-full py-5 bg-editorial-primary text-white font-black uppercase tracking-widest text-sm hover:bg-emerald-600 transition-all transform hover:scale-[1.02] shadow-xl italic cursor-pointer text-center"
             >
               Install Resource Pack
